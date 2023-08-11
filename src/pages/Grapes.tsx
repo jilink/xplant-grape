@@ -27,7 +27,7 @@ const Grapes = () => {
           Wine Commission. This means that our grapes are certified to be
           pathogens and virus free.
         </Text>
-        <Divider m="5" className="fade-in delay-1" />
+        <Divider w="50%" m="5" className="fade-in delay-1" />
 
         <Box
           m="5"
@@ -57,7 +57,7 @@ const Grapes = () => {
           an insurance policy. Contact us for more information about testing
           your stocks and saving them in tissue culture.
         </Text>
-        <Divider m="5" className="fade-in delay-2" />
+        <Divider w="50%" m="5" className="fade-in delay-2" />
       </Flex>
 
       <Flex align="center" direction="column" className="fade-in delay-3">

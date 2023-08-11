@@ -1,4 +1,4 @@
-import { Box, Flex, Text, Image, Button } from "@chakra-ui/react";
+import { Box, Flex, Text, Image, Button, Link } from "@chakra-ui/react";
 
 const Services = () => {
   const services = [
@@ -59,9 +59,11 @@ const Service = ({
           {title}
         </Text>
         <Text fontSize="xs" my={4}>{text}</Text>
-        <Button  _hover={{bg: "#4CD038"}} color="black" w="100%" maxW="200px" bg="#EAE9DB" mt="auto" colorScheme="blue">
+        <Link mt="auto" href="#contact">
+        <Button  _hover={{bg: "#4CD038"}} color="black" w="100%" maxW="200px" bg="#EAE9DB" >
           {ctaText}
         </Button>
+        </Link>
       </Box>
     </Box>
   );

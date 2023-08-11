@@ -6,7 +6,7 @@ const Logo = () => {
 
 const Header = () => {
   return (
-    <Flex justify="space-between" h="10vh" bg="#EAE9DB" w="100vw">
+    <Flex justify="space-between" h="10vh" bg="#EAE9DB" w="100%">
       <Link href="https://xplant.com">
       <Logo />
       </Link>
