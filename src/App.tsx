@@ -1,7 +1,6 @@
-import { Box, Divider, Flex } from "@chakra-ui/react"
+import { Divider, Flex } from "@chakra-ui/react"
 import Grapes from "./pages/Grapes"
 import Header from "./components/Header"
-import { useState } from "react"
 import Wines from "./pages/Wines"
 import Contact from "./pages/Contact"
 

@@ -1,7 +1,5 @@
 import { Box, Flex, Link, Text } from "@chakra-ui/react";
-import Title from "../components/Title";
 import "./Pages.css";
-import WineList from "../components/WineList";
 
 const Contact = () => {
   return (
