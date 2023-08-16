@@ -1,6 +1,8 @@
 import { Box, Grid, GridItem, Image } from "@chakra-ui/react";
 
 const WineList = () => {
+ 
+
   const wines = [
   {
     id: 1,
@@ -19,19 +21,24 @@ const WineList = () => {
   },
   {
     id: 4,
-    name: "Vin rouge",
+    name: "Pinot gris",
     image: "/images/wine-bottle.jpg",
   },
   {
     id: 5,
-    name: "Vin rouge",
+    name: "Cabernet",
     image: "/images/wine-bottle.jpg",
   },
   {
     id: 6,
-    name: "Vin rouge",
+    name: "Syrah",
     image: "/images/wine-bottle.jpg",
   },
+  {
+    id: 7,
+    name: "Riesling",
+    image: "/images/wine-bottle.jpg",
+  }
 ];
 
 

@@ -45,7 +45,7 @@ const Contact = () => {
             </Text>
             <Text>Philippe Thuillier</Text>
             <Text>503-314-2218</Text>
-            <Text>zplantphil@gmail.com</Text>
+            <Text>xplantphil@gmail.com</Text>
           </Box>
 
           <Box mt={6}>
