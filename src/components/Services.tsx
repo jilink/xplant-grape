@@ -59,7 +59,7 @@ const Service = ({
           {title}
         </Text>
         <Text fontSize="xs" my={4}>{text}</Text>
-        <Link mt="auto" href="#contact">
+        <Link mt="auto" href="https://xplant.com/contact.html">
         <Button  _hover={{bg: "#4CD038"}} color="black" w="100%" maxW="200px" bg="#EAE9DB" >
           {ctaText}
         </Button>
