@@ -1,4 +1,4 @@
-import { Box, Grid, GridItem, HStack, Image, Stack, VStack } from "@chakra-ui/react";
+import { Box, Grid, GridItem, Image, Stack } from "@chakra-ui/react";
 
 const WineList = () => {
   const wines = [
