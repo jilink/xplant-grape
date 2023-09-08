@@ -12,7 +12,7 @@ const Header = () => {
       </Link>
       <Flex w={["50%", "30%"]} align="center" justify="space-around"  h="100%">
         <Link  href="https://xplant.com">Home</Link>
-        <Link href="#contact">Contact</Link>
+        <Link href="https://xplant.com/contact.html">Contact</Link>
       </Flex>
     </Flex>
   );
