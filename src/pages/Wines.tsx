@@ -22,7 +22,7 @@ const Wines = () => {
       >
         <Title text="WINES" img="/images/wine.jpg" />
         <Text mb="7" className="fade-in delay-1">
-          Here's a wine list
+          Some of the stocks available
         </Text>
         <WineList />
       </Flex>
