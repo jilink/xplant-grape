@@ -23,9 +23,8 @@ const Grapes = () => {
         <Text className="fade-in delay-1">
           Tissue culture has become a safer approach to grapes stock production.
           We produce virus and pathogen free root stocks. We are certified Group
-          2 Tissue Culture center soon to become Group 1 certified by the Oregon
-          Wine Commission. This means that our grapes are certified to be
-          pathogens and virus free.
+          2 Tissue Culture center. All our stocks are Oregon Certified Nursery Stocks. This means that our grapes are certified to be
+          pathogens and virus free,  including Red Blotch Virus, Leaf Roll virus and many other pests and disease.
         </Text>
         <Divider w="50%" m="5" className="fade-in delay-1" />
 
@@ -49,7 +48,7 @@ const Grapes = () => {
           </Flex>
         </Box>
         <Text m="5" className="fade-in delay-2">
-          Picture Red Blot​ch virus is a serious threat to all grapes in the USA
+          Picture Grapevine Red Blot​ch virus,  is a serious threat to all grapes in the USA
           and particularly the entire PNW has seen an increase in RBV infected
           vines. Some of the symptoms include a reddish coloration of the leaves
           and results into decrease fruit production and yield. Using our TC
