@@ -48,7 +48,7 @@ const Grapes = () => {
           </Flex>
         </Box>
         <Text m="5" className="fade-in delay-2">
-          Picture Grapevine Red Blot​ch virus,  is a serious threat to all grapes in the USA
+           Grapevine Red Blot​ch virus,  is a serious threat to all grapes in the USA
           and particularly the entire PNW has seen an increase in RBV infected
           vines. Some of the symptoms include a reddish coloration of the leaves
           and results into decrease fruit production and yield. Using our TC
