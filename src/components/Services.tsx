@@ -8,7 +8,7 @@ const Services = () => {
       text: "Bring your precious cultivars for cloning and storage",
     },
     {
-      img: "/images/propagation.jpeg",
+      img: "/images/tc.jpg",
       title: "Propagation",
       text: "Multiply and propagate desired cultivars",
     },
