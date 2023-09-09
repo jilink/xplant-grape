@@ -41,7 +41,7 @@ const Contact = () => {
 
           <Box mt={6}>
             <Text fontWeight="bold" fontSize="lg" mb={2}>
-              Hemp, Wasabi, Grapes, and Ornamentals Division
+              Grapes, Hops, Hazelnuts, Wasabi, Fungi, Hemp and Ornamentals Division
             </Text>
             <Text>Philippe Thuillier</Text>
             <Text>503-314-2218</Text>
@@ -50,10 +50,10 @@ const Contact = () => {
 
           <Box mt={6}>
             <Text fontWeight="bold" fontSize="lg" mb={2}>
-              Hops and Hazelnuts
+              Other Information
             </Text>
-            <Text>Vijay Balan</Text>
-            <Text>503-803-6290</Text>
+            <Text>Contact Us </Text>
+            <Text>503-314-2218</Text>
             <Text>info@xplant.com</Text>
           </Box>
         </Box>
