@@ -37,6 +37,11 @@ const WineList = () => {
       name: "Riesling",
       image: "/images/wine-bottle.jpg",
     },
+    {
+      id: 7,
+      name: "Your Wine",
+      image: "/images/wine-bottle.jpg",
+    },
   ];
 
   return (
