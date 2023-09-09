@@ -41,7 +41,7 @@ const WineList = () => {
 
   return (
     <Stack spacing={6} direction={["column", "row"]} justify="center" w="100%">
-      <Image alignSelf="center" boxSize="30%" src="/images/wine-bottle.jpg" alt="wine" />
+      <Image alignSelf="center" boxSize="30%" src="/images/wine bottle.jpeg" alt="wine" />
       <Grid justifyItems={["center", "left"]}  templateColumns={"1fr"} gap={6}>
         {wines.map((wine) => (
           <GridItem key={wine.id}>
