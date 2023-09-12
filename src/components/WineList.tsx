@@ -39,7 +39,7 @@ const WineList = () => {
     },
     {
       id: 7,
-      name: "Your Wine",
+      name: "Your Grape",
       image: "/images/wine-bottle.jpg",
     },
   ];
