@@ -56,8 +56,7 @@ const Contact = () => {
               color="blue.500"
               href="https://xplant.com/contact.htm"
               target="_blank"
-            >
-              @xplant Laboratory
+            >Contact Xplant Laboratory
             </Link>
             <Text> </Text>
             <Text>l</Text>
