@@ -50,11 +50,18 @@ const Contact = () => {
 
           <Box mt={6}>
             <Text fontWeight="bold" fontSize="lg" mb={2}>
-              Other Information
+              Contact us to get your clean and certified Tissue Culture cultivars
             </Text>
-            <Text>Contact Us </Text>
-            <Text>503-314-2218</Text>
-            <Text>info@xplant.com</Text>
+            <Link
+              color="blue.500"
+              href="https://xplant.com/contact.htm"
+              target="_blank"
+            >
+              @xplant Laboratory
+            </Link>
+            <Text> </Text>
+            <Text>l</Text>
+            <Text></Text>
           </Box>
         </Box>
       </Flex>
