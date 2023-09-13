@@ -54,12 +54,12 @@ const Contact = () => {
             </Text>
             <Link
               color="blue.500"
-              href="https://xplant.com/contact.htm"
+              href="https://xplant.com/contact.html"
               target="_blank"
             >Contact Xplant Laboratory
             </Link>
             <Text> </Text>
-            <Text>l</Text>
+            <Text></Text>
             <Text></Text>
           </Box>
         </Box>
