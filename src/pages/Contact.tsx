@@ -41,7 +41,8 @@ const Contact = () => {
 
           <Box mt={6}>
             <Text fontWeight="bold" fontSize="lg" mb={2}>
-              Grapes, Hops, Hazelnuts, Wasabi, Fungi, Hemp and Ornamentals Division
+              Grapes, Hops, Hazelnuts, Wasabi, Fungi, Hemp and Ornamentals
+              Division
             </Text>
             <Text>Philippe Thuillier</Text>
             <Text>503-314-2218</Text>
@@ -50,17 +51,16 @@ const Contact = () => {
 
           <Box mt={6}>
             <Text fontWeight="bold" fontSize="lg" mb={2}>
-              Contact us to get your clean and certified Tissue Culture cultivars
+              Contact us to get your clean and certified Tissue Culture
+              cultivars
             </Text>
             <Link
               color="blue.500"
               href="https://xplant.com/contact.html"
               target="_blank"
-            >Contact Xplant Laboratory
+            >
+              Contact Xplant Laboratory
             </Link>
-            <Text> </Text>
-            <Text></Text>
-            <Text></Text>
           </Box>
         </Box>
       </Flex>
