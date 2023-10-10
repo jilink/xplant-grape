@@ -20,7 +20,7 @@ const Wines = () => {
         textAlign="center"
         maxW="1000px"
       >
-        <Title text="Grape Strains" img="/images/wine.jpg" />
+        <Title text="Grape Strains" img="/images/white-wine.jpg" />
         <Text mb="7" className="fade-in delay-1">
           Some of the Grape stocks available
         </Text>
